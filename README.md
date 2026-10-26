@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
-How To Contribute text
+How To Contribute text is changed
 
 ### Copyright
 
